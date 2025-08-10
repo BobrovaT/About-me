@@ -5,4 +5,4 @@
    - I have a cat
    - **Аnd no experience in testing**
    
-https://drive.google.com/file/d/0B0r5lnOWLEuSVnN6STZnamhLWDA/view?usp=drive_link&resourcekey=0-v3-nUIkD0-OjxmHCxgXc7w
+https://github.com/BobrovaT/About-me/blob/main/IMG-20160925-WA0006.jpg
